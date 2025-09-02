@@ -1,7 +1,7 @@
-#Hospital Patient Queue
+# Hospital Patient Queue
 A command-line simulation of a hospital patient check-in and processing system.
 
-##Project Concept
+## Project Concept
 This application simulates a patient queue, such as one you would find in a hospital's emergency room or clinic. New patients are added to the back of the queue, and the system processes them from the front. It serves as a practical demonstration of the First-In, First-Out (FIFO) principle using C++'s standard queue container.
 
 Tech Requirements
